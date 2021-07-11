@@ -1,1 +1,9 @@
 
+if game.PlaceId == 1962086868 then
+      loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/JayZone69/SCRIPTS/main/TowerOfHell')('Well Hello There MrSpy')
+      else 
+          if game.PlaceId == 4954752502 then
+                    loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/JayZone69/SCRIPTS/main/Tower0fMisery')('look at that i have a fan boy')
+
+end
+end
